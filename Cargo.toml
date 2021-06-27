@@ -12,4 +12,4 @@ codegen-units = 2
 panic = 'abort'
 
 [dependencies]
-# ckb-std = "0.7.1"
+ckb-std = "0.7.1"
